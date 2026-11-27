@@ -1,0 +1,8 @@
+{
+  "name": "ASHCLOUD",
+  "description": "One Cloud. Every File. Every Memory. Personal cloud storage for photos, videos, drive documents, private vault, and secure sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,1375 @@
+# ASHCLOUD — ULTIMATE MASTER DEVELOPMENT PROMPT
+## Complete Cloud Storage Platform | Premium UI | Photos | Drive | Private Vault | Sharing | 512 TB Target Capacity
+
+**PROJECT NAME:** ASHCLOUD
+
+**TAGLINE:** One Cloud. Every File. Every Memory.
+
+**PLATFORM:** Base44
+
+**PROJECT TYPE:** Premium Personal Cloud Storage and File Management Platform.
+
+**PRIMARY GOAL:** Transform my existing ASHCLOUD project into a beautiful, secure, reliable, scalable and fully functional cloud-storage platform.
+
+---
+
+# SECTION 1 — PROJECT VISION
+
+I am developing a cloud-storage platform called ASHCLOUD.
+
+ASHCLOUD should combine the most useful features of:
+
+1. Google Photos — Photo and video management.
+2. Google Drive — File and folder management.
+3. Private Vault — Secure personal storage.
+4. Cloud Sharing — File sharing and collaboration.
+5. Premium SaaS Dashboard — Modern user experience.
+6. Cloud Storage Management — Storage usage, organization and analytics.
+
+The purpose of ASHCLOUD is to provide one unified place where users can:
+
+- Upload photos and videos.
+- Store documents and files.
+- Organize folders and albums.
+- Access files from different devices.
+- Protect private files.
+- Share files with other users.
+- Manage permissions.
+- Search their entire library.
+- Monitor storage usage.
+- Manage their digital memories.
+
+The website must be a real working application, not just a visual prototype.
+
+## IMPORTANT DEVELOPMENT RULES
+
+I already have an existing ASHCLOUD project in Base44.
+
+Therefore:
+
+- Do not rebuild the entire application unnecessarily.
+- Do not delete existing user data.
+- Do not remove working features.
+- Inspect the current code and database first.
+- Inspect the current storage architecture.
+- Inspect authentication and integrations.
+- Reuse existing components and database entities.
+- Fix incomplete functionality.
+- Avoid duplicate integrations.
+- Avoid unnecessary database tables.
+- Preserve the existing working upload and storage pipeline.
+- Use Base44-supported functionality.
+- Make changes incrementally.
+- Test each important feature.
+
+First audit the project. Then implement the improvements.
+
+---
+
+# SECTION 2 — BRAND IDENTITY AND PREMIUM DESIGN
+
+Give ASHCLOUD a unique, sophisticated and premium visual identity.
+
+The design should feel like a professional commercial cloud-storage product.
+
+Take inspiration from the usability of Google Photos and Google Drive, but create original ASHCLOUD branding and layouts.
+
+## 2.1 Official branding
+
+Brand name: ASHCLOUD
+
+Tagline: One Cloud. Every File. Every Memory.
+
+Logo concept:
+- Modern cloud symbol.
+- Elegant typography.
+- Minimal visual design.
+- Recognizable brand identity.
+- Suitable for website, mobile and favicon.
+
+## 2.2 Official colour palette
+
+Use this consistent colour palette throughout the website.
+
+| Colour | HEX | Purpose |
+|---|---|---|
+| Deep Navy | #111827 | Dark background |
+| Electric Blue | #2563EB | Primary buttons |
+| Sky Blue | #38BDF8 | Accents and links |
+| Cloud White | #F8FAFC | Light backgrounds and text |
+| Slate Gray | #1F2937 | Cards and panels |
+
+## 2.3 Theme system
+
+Implement:
+
+- Dark Mode as default.
+- Light Mode.
+- Theme switcher.
+- Persistent theme preference.
+- Smooth theme transitions.
+- Consistent theme across all pages.
+
+## 2.4 Premium UI requirements
+
+Use:
+
+- Beautiful typography.
+- Professional iconography.
+- Consistent spacing.
+- Elegant rounded cards.
+- Subtle shadows.
+- Refined borders.
+- Clean layouts.
+- Smooth animations.
+- Elegant hover effects.
+- Polished buttons.
+- Beautiful dropdown menus.
+- Professional modal dialogs.
+- Toast notifications.
+- Skeleton loading.
+- Clear empty states.
+- Clear error states.
+- Beautiful upload progress indicators.
+
+Avoid:
+
+- Excessive gradients.
+- Unnecessary animations.
+- Cluttered interfaces.
+- Inconsistent spacing.
+- Oversized controls.
+- Distracting visual effects.
+- Unreadable text.
+
+The design should be minimal, elegant, modern and premium.
+
+## 2.5 Responsive design
+
+The entire application must work correctly on:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile phones.
+
+Provide mobile-friendly navigation, responsive galleries, touch-friendly controls and properly sized dialogs.
+
+---
+
+# SECTION 3 — MAIN DASHBOARD AND NAVIGATION
+
+Create a premium cloud-storage dashboard.
+
+## 3.1 Sidebar navigation
+
+Include:
+
+1. Home
+2. Photos
+3. Albums
+4. Drive
+5. Hidden Vault
+6. Favorites
+7. Recent
+8. Shared With Me
+9. Shared By Me
+10. Trash
+11. Storage
+12. Settings
+
+Requirements:
+
+- Collapsible sidebar.
+- Elegant icons.
+- Active navigation indicators.
+- Smooth hover states.
+- Responsive mobile navigation.
+- Consistent navigation across pages.
+
+## 3.2 Top navigation
+
+Include:
+
+- Global search.
+- Upload shortcut.
+- Notifications.
+- Activity bell.
+- Theme switcher.
+- User profile.
+- Account menu.
+
+## 3.3 Home dashboard
+
+Display:
+
+- Total storage used.
+- Total storage capacity.
+- Available storage.
+- Storage usage percentage.
+- Total photos.
+- Total videos.
+- Total files.
+- Total folders.
+- Recent uploads.
+- Recently opened files.
+- Favorite items.
+- Shared files.
+- Recent activity.
+- Quick upload.
+- Storage analytics.
+
+All displayed information must come from actual backend data.
+
+Do not use fake statistics.
+
+---
+
+# SECTION 4 — PHOTOS: COMPLETE PHOTO MANAGEMENT
+
+Create a beautiful photo-management experience inspired by Google Photos.
+
+Preserve the existing date-based gallery design while improving its usability and visual quality.
+
+## 4.1 Photos navigation
+
+Create three primary tabs:
+
+- My Photos.
+- Shared With Me.
+- Albums.
+
+## 4.2 My Photos
+
+Implement:
+
+- Date-based photo timeline.
+- Responsive photo grid.
+- Image thumbnails.
+- Video thumbnails.
+- Fullscreen photo viewer.
+- Image zoom.
+- Photo metadata.
+- Search.
+- Filters.
+- Favorites.
+- Multi-select.
+- Download.
+- Delete.
+- Restore.
+- Slideshow.
+- Upload.
+
+Organize photos by:
+
+- Today.
+- Yesterday.
+- This Week.
+- Month.
+- Year.
+
+## 4.3 Photo viewer
+
+Create a premium fullscreen photo viewer.
+
+Include:
+
+- Large image preview.
+- Previous and next navigation.
+- Zoom controls.
+- Fullscreen mode.
+- File name.
+- Upload date.
+- File size.
+- Metadata when available.
+- Favorite.
+- Download.
+- Share.
+- Delete.
+
+## 4.4 Albums
+
+Implement:
+
+- Create album.
+- Rename album.
+- Delete album.
+- Add photos.
+- Remove photos.
+- Change album cover.
+- View album contents.
+- Share album.
+- Manage album permissions.
+
+## 4.5 Videos
+
+Implement:
+
+- Video gallery.
+- Video thumbnails.
+- Video preview.
+- Browser-supported video playback.
+- Fullscreen playback.
+- Video metadata.
+- Download.
+- Favorites.
+- Sharing.
+
+Provide useful error messages for unsupported formats.
+
+---
+
+# SECTION 5 — DIRECT UPLOAD IN PHOTOS
+
+Make the Photos upload system fully functional.
+
+## 5.1 Upload methods
+
+Support:
+
+- Select files from device.
+- Multiple file selection.
+- Drag-and-drop.
+- Paste copied images using Ctrl+V where browser permissions allow.
+- Supported device file sources.
+
+## 5.2 Upload manager
+
+For every file, display:
+
+- File name.
+- File size.
+- Upload progress.
+- Progress percentage.
+- Upload destination.
+- Current status.
+- Retry button.
+- Cancel button.
+
+Support these statuses:
+
+- Pending.
+- Uploading.
+- Completed.
+- Failed.
+- Cancelled.
+
+## 5.3 Upload processing
+
+Implement:
+
+- Actual cloud storage uploads.
+- File type validation.
+- File size validation.
+- Image thumbnails.
+- Video previews.
+- Duplicate handling.
+- Error handling.
+- Retry logic.
+- Upload cancellation.
+- Automatic gallery refresh.
+
+Save the database record only after the storage upload succeeds.
+
+If database record creation fails after a successful storage upload, handle the incomplete operation safely and provide recovery or cleanup.
+
+Never display an upload as successful unless the required storage and database operations actually succeeded.
+
+---
+
+# SECTION 6 — DRIVE: COMPLETE FILE MANAGEMENT
+
+Create a complete Google Drive-inspired file manager.
+
+## 6.1 Drive features
+
+Implement:
+
+- Create folders.
+- Create subfolders.
+- Upload files.
+- Upload folders where supported.
+- Open folders.
+- Rename files.
+- Rename folders.
+- Copy.
+- Cut.
+- Paste.
+- Move files.
+- Delete files.
+- Restore files.
+- Download files.
+- Multi-select.
+- ZIP downloads where supported.
+- File previews.
+- Grid view.
+- List view.
+- Sorting.
+- Filtering.
+- Search.
+- Breadcrumb navigation.
+
+## 6.2 Supported file types
+
+Support common formats:
+
+- JPG.
+- JPEG.
+- PNG.
+- WebP.
+- GIF.
+- MP4.
+- WebM.
+- PDF.
+- DOCX.
+- XLSX.
+- PPTX.
+- TXT.
+- CSV.
+- ZIP.
+- Audio formats.
+- Other supported file types.
+
+Respect Base44 and storage-provider file limits.
+
+## 6.3 Folder management
+
+Implement:
+
+- Folder creation.
+- Nested folders.
+- Folder renaming.
+- Folder deletion.
+- Folder movement.
+- Folder sharing.
+- Folder upload.
+- Folder hierarchy preservation.
+
+Maintain correct parent-folder relationships.
+
+---
+
+# SECTION 7 — DIRECT UPLOAD IN DRIVE
+
+Implement a fully functional Drive upload experience.
+
+Include:
+
+- Upload Files button.
+- Upload Folder where supported.
+- Multiple file selection.
+- Drag-and-drop.
+- Folder hierarchy preservation.
+- Upload destination selection.
+- Real progress indicators.
+- Retry.
+- Cancel.
+- Error handling.
+- Automatic file-list refresh.
+
+Uploads must go into the currently selected folder.
+
+Save the correct folder ID for every uploaded file.
+
+Do not simulate successful uploads.
+
+---
+
+# SECTION 8 — CLIPBOARD AND KEYBOARD SHORTCUTS
+
+Implement supported keyboard shortcuts.
+
+| Shortcut | Action |
+|---|---|
+| Ctrl+C | Copy selected files |
+| Ctrl+X | Cut selected files |
+| Ctrl+V | Paste files or copied images where supported |
+| Ctrl+A | Select all |
+| Delete | Delete selected items |
+| Ctrl+U | Open upload dialog |
+| Ctrl+Shift+N | Create new folder |
+
+Requirements:
+
+- Handle browser clipboard permissions correctly.
+- Support clipboard image pasting where available.
+- Support file operations within Drive.
+- Provide helpful messages when browser functionality is unavailable.
+- Avoid overriding normal text-input keyboard shortcuts.
+
+---
+
+# SECTION 9 — SHARED WITH ME AND SHARED BY ME
+
+This is one of the most important features.
+
+Shared images must appear in the recipient's Photos page.
+
+Shared files must appear in the recipient's Drive page.
+
+## 9.1 Photos tabs
+
+Create:
+
+- My Photos.
+- Shared With Me.
+- Albums.
+
+## 9.2 Drive tabs
+
+Create:
+
+- My Drive.
+- Shared With Me.
+- Shared By Me.
+
+## 9.3 Shared content display
+
+For every shared item, display:
+
+- Thumbnail or file icon.
+- File name.
+- Owner.
+- Sender.
+- Date uploaded.
+- Date shared.
+- Permission level.
+- Available actions.
+
+Recipients must be able to open, preview and download files according to their permissions.
+
+## 9.4 Shared files architecture
+
+Do not duplicate original storage files unnecessarily.
+
+Use the original storage object and secure sharing records.
+
+When an invitation is accepted, the item must become visible in the recipient's Shared With Me section.
+
+When access is revoked or expires, the recipient must lose access.
+
+Update cached data so the interface reflects sharing changes promptly.
+
+---
+
+# SECTION 10 — COMPLETE SHARING SYSTEM
+
+Implement a professional sharing system.
+
+## 10.1 What users can share
+
+- Individual photos.
+- Individual videos.
+- Documents.
+- Individual files.
+- Multiple files.
+- Folders.
+- Albums.
+
+## 10.2 Sharing methods
+
+- Invite by email.
+- Invite authenticated users.
+- Generate share links.
+- Copy share links.
+- Restricted access.
+- Anyone-with-link access, when supported and explicitly selected.
+
+## 10.3 Permission levels
+
+- Viewer.
+- Commenter, where supported.
+- Editor.
+
+## 10.4 Sharing controls
+
+Implement:
+
+- Accept invitation.
+- Reject invitation.
+- Resend invitation.
+- Revoke access.
+- Expiry date.
+- Recipient management.
+- Permission changes.
+- Sharing history.
+- Optional password protection where supported.
+
+## 10.5 Database relationships
+
+Inspect the existing database before changing it.
+
+Ensure sharing records correctly connect:
+
+- File ID.
+- Folder ID.
+- Album ID.
+- Owner user ID.
+- Recipient user ID.
+- Permission level.
+- Invitation status.
+- Sharing token.
+- Expiry date.
+- Creation date.
+- Revocation date.
+
+Do not create duplicate tables unnecessarily.
+
+## 10.6 Security
+
+- Use unguessable sharing tokens.
+- Verify permissions on the backend.
+- Validate expiry.
+- Validate revocation.
+- Prevent unauthorized downloads.
+- Prevent unauthorized previews.
+- Prevent unauthorized file access.
+
+Hidden Vault files must never become public through accidental sharing.
+
+---
+
+# SECTION 11 — HIDDEN VAULT
+
+Create a separate private storage area called Hidden Vault.
+
+Support:
+
+- Private photos.
+- Private videos.
+- Private documents.
+- Private folders.
+- Move files into Vault.
+- Move files out of Vault.
+- PIN or password protection.
+- Automatic locking.
+- Secure access controls.
+
+Security requirements:
+
+- Do not rely only on frontend hiding.
+- Enforce permissions on the backend.
+- Protect private storage objects.
+- Prevent direct unauthorized URL access.
+- Prevent accidental sharing.
+- Exclude Vault content from ordinary global search.
+- Prevent Vault content from appearing in public or shared folders.
+
+Only the authorized account owner should be able to access their private Vault items.
+
+---
+
+# SECTION 12 — GLOBAL SEARCH
+
+Create one global search system.
+
+Search across:
+
+- My Photos.
+- Shared Photos.
+- Albums.
+- My Drive.
+- Shared Drive files.
+- Folders.
+- Favorites.
+- Recent files.
+
+Include filters:
+
+- File type.
+- Date.
+- Owner.
+- Location.
+- Sharing status.
+
+Search results should display:
+
+- Thumbnail or file icon.
+- File name.
+- File type.
+- Owner.
+- Location.
+- Sharing status.
+
+Important:
+
+Global search currently covers only the user's own files. Expand it to include accessible shared files.
+
+Every result must respect the current user's permissions.
+
+Never expose private file names, metadata or content to unauthorized users.
+
+---
+
+# SECTION 13 — PERFORMANCE, CACHING AND RATE LIMITS
+
+The existing application experienced repeated library reads, excessive signed-URL requests and rate-limit errors.
+
+Preserve and improve the performance fixes already implemented.
+
+## 13.1 Cached library reads
+
+- Reuse cached library reads across pages.
+- Avoid repeatedly fetching the same library on every mount.
+- Load Photos once per appropriate session or cache lifecycle.
+- Apply filters locally when the cached data is sufficient.
+- Refresh or invalidate cached data after uploads.
+- Refresh after deletions.
+- Refresh after moves.
+- Refresh after sharing.
+- Refresh after revocations.
+- Clear account-specific cached data when signing out or switching accounts.
+
+## 13.2 Signed URL management
+
+- Limit concurrent signing requests.
+- Avoid unnecessary signed URL creation.
+- Reuse valid signed URLs only within their permitted lifetime.
+- Handle expired signed URLs.
+- Retry temporary failures safely.
+- Avoid infinite retry loops.
+
+## 13.3 Rate-limit handling
+
+When a rate-limit response occurs:
+
+- Do not crash the application.
+- Display a friendly Try Again card.
+- Preserve the user's current page.
+- Avoid aggressive repeated retries.
+- Provide meaningful error messages.
+- Allow a safe retry when appropriate.
+
+## 13.4 Performance optimization
+
+- Use pagination for large libraries.
+- Use lazy loading.
+- Load thumbnails before full-resolution images.
+- Avoid duplicate API requests.
+- Optimize gallery rendering.
+- Avoid unnecessary component updates.
+- Keep the application responsive.
+
+---
+
+# SECTION 14 — BASE44 INTEGRATION-LIMIT ERROR
+
+I encountered the following error while processing an image.
+
+**File:** image.png
+
+**File size:** 146.4 KB
+
+**Error message:** You have reached the limit of integrations.
+
+Investigate this issue before changing the storage architecture.
+
+## 14.1 Diagnose the actual cause
+
+Inspect:
+
+1. The failed request.
+2. HTTP status code.
+3. Response body.
+4. Base44 integration usage.
+5. Connected services.
+6. Backend logs.
+7. Whether the monthly integration allowance is exhausted.
+8. Whether image uploads unnecessarily invoke AI or external integrations.
+9. Whether the upload implementation is making unnecessary integration calls.
+
+Do not assume the image size is the problem.
+
+## 14.2 Resolve appropriately
+
+- Use Base44's supported native storage capabilities where appropriate.
+- Keep ordinary uploads on the existing private storage pipeline when supported.
+- Avoid unnecessary AI calls for ordinary image uploads.
+- Reuse existing integrations.
+- Avoid duplicate integrations.
+- Reduce unnecessary external API calls.
+- Do not bypass Base44 billing or usage restrictions.
+- Do not claim an account-level quota has been fixed without confirmation.
+
+If the monthly integration allowance is exhausted, explain the exact account-level action required.
+
+If the issue comes from application code, fix the implementation.
+
+If the issue comes from a provider limit, explain the provider limitation clearly.
+
+---
+
+# SECTION 15 — 512 TB TARGET STORAGE CAPACITY
+
+## IMPORTANT: ASHCLOUD STORAGE TARGET
+
+Set the target total storage capacity of ASHCLOUD to:
+
+# 512 TB
+
+The platform should be architected to support a total storage capacity of 512 terabytes.
+
+This is the target platform capacity, not a claim that Base44 automatically provides 512 TB.
+
+## 15.1 Storage dashboard
+
+Display:
+
+- Total Capacity: 512 TB target.
+- Used Storage: Actual measured usage.
+- Available Storage: Actual remaining capacity.
+- Storage Usage: Automatically calculated percentage.
+- Photos storage.
+- Videos storage.
+- Drive storage.
+- Vault storage.
+
+Example display:
+
+**Total Storage Capacity: 512 TB**
+
+Used: Actual backend usage.
+
+Available: Actual provisioned capacity minus actual usage.
+
+Usage percentage: Automatically calculated.
+
+Do not hardcode fake usage statistics.
+
+## 15.2 Storage calculations
+
+Use accurate byte-based calculations.
+
+Use consistent storage units and clearly identify whether the system uses decimal TB or binary TiB.
+
+The storage system must correctly calculate:
+
+- Uploaded file sizes.
+- Deleted file sizes.
+- Restored file sizes.
+- Replaced files.
+- Duplicate object handling.
+- Storage used by each account.
+- Platform-wide storage usage.
+
+Shared references to the same underlying object must not unnecessarily double-count platform storage.
+
+## 15.3 Scalable storage architecture
+
+Inspect the existing Base44 storage provider.
+
+If it cannot support 512 TB directly, design an architecture using a supported scalable object-storage provider.
+
+Possible architectural requirements:
+
+- Private object storage.
+- Secure upload operations.
+- Signed download URLs.
+- Multipart uploads where supported.
+- Resumable uploads where supported.
+- Storage monitoring.
+- Backup strategy.
+- Lifecycle management.
+- Error recovery.
+- Provider quota monitoring.
+
+Only use external providers when they are supported and properly configured.
+
+Do not create an unnecessary integration just to display a 512 TB number.
+
+## 15.4 Capacity enforcement
+
+- Check actual provisioned capacity.
+- Calculate actual available space.
+- Warn users as capacity approaches its limit.
+- Prevent uploads when actual available capacity is exhausted.
+- Provide clear error messages.
+- Never claim 512 TB is available until the storage backend confirms that capacity.
+
+## 15.5 Important distinction
+
+The 512 TB figure is the desired total platform capacity.
+
+It is not automatically a per-user quota.
+
+If individual user quotas are introduced, make them configurable and clearly distinguish them from the platform-wide capacity.
+
+---
+
+# SECTION 16 — STORAGE MANAGEMENT
+
+Create a professional storage-management dashboard.
+
+Display:
+
+- Total capacity.
+- Total used.
+- Available capacity.
+- Photos usage.
+- Videos usage.
+- Drive usage.
+- Vault usage.
+- Storage history.
+- Large files.
+- Recently deleted files.
+- Storage warnings.
+
+Use actual backend information.
+
+Never promise unlimited storage unless the actual provider supports it.
+
+---
+
+# SECTION 17 — RECENT, FAVORITES AND TRASH
+
+## 17.1 Recent
+
+Display recently:
+
+- Uploaded files.
+- Opened files.
+- Modified files.
+- Shared files.
+
+## 17.2 Favorites
+
+Implement:
+
+- Add favorites.
+- Remove favorites.
+- View favorites.
+- Filter favorites.
+
+## 17.3 Trash
+
+Implement:
+
+- Move to Trash.
+- Restore.
+- Permanently delete.
+- Empty Trash.
+- Retention rules where supported.
+
+Deleting a shared reference must not accidentally delete another user's original file.
+
+---
+
+# SECTION 18 — NOTIFICATIONS AND ACTIVITY
+
+Create a functional notification system.
+
+Notify users about:
+
+- New sharing invitations.
+- Accepted invitations.
+- Revoked access.
+- New shared files.
+- Comments where supported.
+- Upload completion.
+- Important storage events.
+
+Create an activity history containing relevant account actions.
+
+Include an elegant notification bell with unread indicators.
+
+---
+
+# SECTION 19 — AUTHENTICATION AND ACCOUNT MANAGEMENT
+
+Use the existing Base44-supported authentication system.
+
+Support:
+
+- Sign up.
+- Sign in.
+- Sign out.
+- Profile management.
+- Session persistence.
+- Password recovery where supported.
+- User-specific files.
+- User-specific storage information.
+- Account switching.
+
+If Google sign-in is already configured, preserve it and test it rather than creating a duplicate authentication flow.
+
+Ensure users only access their own content and content explicitly shared with them.
+
+---
+
+# SECTION 20 — DATABASE AND STORAGE ARCHITECTURE
+
+First inspect the existing Base44 data model.
+
+Use or adapt existing entities for:
+
+- User profiles.
+- Files.
+- Folders.
+- Albums.
+- Album items.
+- Favorites.
+- Vault items.
+- Sharing links.
+- File permissions.
+- Sharing invitations.
+- Comments.
+- Activity logs.
+- Notifications.
+- Trash items.
+- Storage usage.
+
+Add missing relationships and fields only where necessary.
+
+Ensure:
+
+- Correct ownership.
+- Correct parent-folder relationships.
+- Correct sharing relationships.
+- Correct file metadata.
+- Correct timestamps.
+- Proper authorization.
+- Efficient queries.
+
+Use Base44's supported storage and backend functionality.
+
+Do not introduce unnecessary external infrastructure.
+
+---
+
+# SECTION 21 — SECURITY AND PRIVACY
+
+Security is essential.
+
+Implement:
+
+- Backend authorization.
+- User ownership validation.
+- Private storage.
+- Secure sharing tokens.
+- Permission validation.
+- Expiry validation.
+- Revocation enforcement.
+- File type validation.
+- Upload validation.
+- Safe file handling.
+- Session security.
+- Rate-limit handling.
+- Protection against unauthorized downloads.
+- Protection against unauthorized previews.
+- Hidden Vault isolation.
+
+Every protected operation must verify the current user's permissions on the backend.
+
+Do not rely on frontend visibility controls for security.
+
+Never expose secret credentials in frontend code.
+
+---
+
+# SECTION 22 — SETTINGS
+
+Create a premium Settings section.
+
+Include:
+
+1. Profile Settings.
+2. Account Settings.
+3. Theme Settings.
+4. Language Settings.
+5. Upload Preferences.
+6. Notification Preferences.
+7. Storage Information.
+8. Security Settings.
+9. Vault Settings.
+10. Active Sessions where supported.
+11. Account Management.
+
+Keep the design consistent with the ASHCLOUD brand.
+
+---
+
+# SECTION 23 — FUTURE-READY FEATURES
+
+Prepare the architecture for future improvements:
+
+- Automatic backup with explicit permission.
+- Multi-device synchronization.
+- PWA support.
+- Offline access.
+- File version history.
+- Duplicate detection.
+- Smart albums.
+- AI-assisted search.
+- Advanced media organization.
+- Improved collaboration.
+
+Do not show unfinished features as functional.
+
+Do not introduce additional paid integrations without explaining their purpose and requirements.
+
+---
+
+# SECTION 24 — COMPLETE TESTING AND QUALITY ASSURANCE
+
+Do not just create buttons or frontend demonstrations.
+
+Test the complete application.
+
+## 24.1 Photos testing
+
+1. Upload one image.
+2. Upload multiple images.
+3. Upload a video.
+4. Paste an image where supported.
+5. Drag and drop files.
+6. Open a photo.
+7. Download a photo.
+8. Delete a photo.
+9. Restore a photo.
+10. Refresh the browser.
+11. Confirm the uploaded files remain visible.
+
+## 24.2 Drive testing
+
+1. Create a folder.
+2. Create a subfolder.
+3. Upload a document.
+4. Upload a folder.
+5. Move a file.
+6. Rename a file.
+7. Copy and paste a file.
+8. Download a file.
+9. Delete a file.
+10. Restore a file.
+11. Refresh and confirm persistence.
+
+## 24.3 Sharing testing
+
+1. User A uploads an image.
+2. User A shares it with User B.
+3. User B receives an invitation.
+4. User B accepts the invitation.
+5. The image appears in User B's Photos → Shared With Me.
+6. User B opens the image.
+7. User B downloads it if permitted.
+8. User A revokes access.
+9. User B loses access.
+10. Expired sharing links become inaccessible.
+11. Unauthorized users cannot access private files.
+
+## 24.4 Hidden Vault testing
+
+- Move a file into Vault.
+- Confirm it disappears from ordinary Photos and Drive views as appropriate.
+- Lock the Vault.
+- Try accessing it without authorization.
+- Confirm access is denied.
+- Unlock the Vault.
+- Confirm authorized access works.
+- Verify that sharing does not expose Vault contents.
+
+## 24.5 Performance testing
+
+- Navigate between pages.
+- Monitor library request counts.
+- Apply multiple filters.
+- Open large galleries.
+- Test signed URL concurrency.
+- Test rate-limit responses.
+- Test retry handling.
+- Switch accounts.
+- Test cache invalidation.
+
+## 24.6 Storage testing
+
+- Upload files of different sizes.
+- Verify byte-based storage calculations.
+- Delete files.
+- Restore files.
+- Check storage usage updates.
+- Check capacity warnings.
+- Verify actual provider capacity.
+- Confirm the dashboard does not falsely claim that 512 TB is provisioned.
+
+## 24.7 UI testing
+
+Check:
+
+- Buttons.
+- Links.
+- Tabs.
+- Menus.
+- Dialogs.
+- Upload controls.
+- Sharing controls.
+- Sidebar.
+- Search.
+- Theme switcher.
+- Notifications.
+- Mobile layout.
+- Tablet layout.
+- Desktop layout.
+
+---
+
+# SECTION 25 — IMPLEMENTATION ROADMAP
+
+Implement the application in the following order.
+
+**PHASE 1 — Existing Project Audit**
+
+Inspect the current Base44 project, code, database, authentication, storage, integrations and existing features.
+
+**PHASE 2 — Integration Limit Diagnosis**
+
+Investigate the monthly integration-limit error and determine whether it requires code changes or an account-level action.
+
+**PHASE 3 — Photos Upload**
+
+Verify and complete direct photo and video uploads.
+
+**PHASE 4 — Drive Upload**
+
+Verify and complete file uploads, folder uploads and folder hierarchy.
+
+**PHASE 5 — Sharing System**
+
+Complete invitations, accepted shares, Shared With Me, Shared By Me, permissions, expiry and revocation.
+
+**PHASE 6 — Global Search**
+
+Include all accessible shared content in global search.
+
+**PHASE 7 — Performance**
+
+Improve caching, request management, signed URL concurrency and rate-limit handling.
+
+**PHASE 8 — 512 TB Storage Architecture**
+
+Inspect provider limits and design the appropriate scalable storage architecture.
+
+**PHASE 9 — Premium UI**
+
+Polish Dashboard, Photos, Drive, Vault, Sharing, Sidebar, Settings and mobile layouts.
+
+**PHASE 10 — Security**
+
+Verify ownership, permissions, private storage and Vault isolation.
+
+**PHASE 11 — Full Testing**
+
+Test complete workflows on desktop, tablet and mobile.
+
+**PHASE 12 — Final Report**
+
+Report completed features, verified tests, remaining issues and configuration requirements.
+
+---
+
+# SECTION 26 — FINAL DEVELOPMENT RULES
+
+These rules must be followed throughout the project.
+
+1. Work with the existing ASHCLOUD project.
+2. Inspect before modifying.
+3. Preserve existing user data.
+4. Preserve working functionality.
+5. Reuse existing components.
+6. Avoid duplicate integrations.
+7. Avoid unnecessary API calls.
+8. Avoid unnecessary database tables.
+9. Do not simulate uploads.
+10. Do not simulate sharing.
+11. Do not expose private storage.
+12. Do not bypass Base44 limits.
+13. Do not hardcode fake storage usage.
+14. Do not claim untested functionality works.
+15. Handle errors gracefully.
+16. Keep the application responsive.
+17. Maintain consistent branding.
+18. Explain required external configuration.
+19. Explain any additional provider costs.
+20. Verify all important workflows.
+
+# SECTION 27 — REQUIRED FINAL REPORT
+
+After implementation, provide a detailed report.
+
+Include:
+
+**A. Project Audit**
+- Existing architecture.
+- Existing database.
+- Existing storage.
+- Existing integrations.
+
+**B. Completed Features**
+- Photos.
+- Drive.
+- Uploads.
+- Sharing.
+- Vault.
+- Search.
+- Storage dashboard.
+- Premium design.
+
+**C. Performance**
+- Cache improvements.
+- Reduced API requests.
+- Signing concurrency.
+- Rate-limit handling.
+
+**D. Storage**
+- Actual storage provider.
+- Confirmed provisioned capacity.
+- 512 TB target feasibility.
+- Current usage.
+- Remaining configuration.
+
+**E. Integration Limits**
+- Exact cause of the integration-limit error.
+- Whether the issue was fixed.
+- Whether an account upgrade or quota reset is needed.
+
+**F. Testing**
+- Features actually tested.
+- Features not yet tested.
+- Failed tests.
+- Bugs fixed.
+
+**G. Remaining Work**
+- Outstanding limitations.
+- Required credentials.
+- Required configuration.
+- Recommended next steps.
+
+Never mark an untested feature as complete.
+
+---
+
+# FINAL PROJECT GOAL
+
+Transform ASHCLOUD into a beautiful, premium, secure, reliable and scalable cloud-storage platform.
+
+It should bring together:
+
+- Photos.
+- Videos.
+- Albums.
+- Drive.
+- Folders.
+- Hidden Vault.
+- Shared With Me.
+- Shared By Me.
+- File sharing.
+- Global search.
+- Storage management.
+- Notifications.
+- Activity history.
+- 512 TB target storage architecture.
+
+The platform must be visually elegant, easy to use, fast, responsive, secure and genuinely functional.
+
+**BUILD A REAL WORKING CLOUD STORAGE PRODUCT — NOT JUST A BEAUTIFUL MOCKUP.**
+
+**ASHCLOUD — ONE CLOUD. EVERY FILE. EVERY MEMORY.**
