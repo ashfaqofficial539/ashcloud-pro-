@@ -1,0 +1,3 @@
+[build.environment]
+  # bun.lock uses lockfileVersion 2, which older Bun releases (1.3.x) cannot parse.
+  BUN_VERSION = "1.4.5"
